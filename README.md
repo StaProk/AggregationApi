@@ -68,6 +68,6 @@ requirements: when running on local machine it needs a bearer token from an X ap
 
 In order to add a new API, in the aggregation controller the service of the new API has to be called, same as the other API services. Also, for the new API a controller, a service and the required models have to be created or inherited by a library of the external api.
 
-In order to add more APIs or change the aggregation API in a local machine .NET SDK 6.0 or higher and Visual Studio or any IDE that supports .NET are needed. Swagger has been added so the API can be manually tested on Google Chrome (or any other browser). The code can be found and cloned in the github repository url:
+In order to add more APIs or change the aggregation API in a local machine .NET SDK 6.0 or higher and Visual Studio or any IDE that supports .NET are needed. Swagger has been added so the API can be manually tested on Google Chrome (or any other browser). The code can be found and cloned in the github repository url: https://github.com/StaProk/AggregationApi
 
 The the API runs on `https://localhost:5050`.
